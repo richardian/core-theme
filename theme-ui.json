@@ -13,7 +13,7 @@
                 {
                     "xtype": "mz-input-checkbox",
                     "name": "enablePartialCaching",
-                    "fieldLabel": "Enable partial caching using the Hypr {% partial_cache %} tag"
+                    "fieldLabel": "Enable partial caching"
                 }
             ]
         },
