@@ -840,7 +840,7 @@
                 "attributeId": "Tenant~product-related",
                 "count": "4",
                 "template": "modules/product/product-list-carousel",
-                "title": "Other Items"
+                "title": "Related Products"
             },
             "displayName": "Related Products",
             "displayTemplate": "catalog/related-products",
